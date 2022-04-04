@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔙 I'm a backend engineer who wants to be an 🔧 all-rounder 🔧.
+- 🔙 I'm a software engineer. Now I work as a backend engineer.
 - 🛠️ My tech stack
     - <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
